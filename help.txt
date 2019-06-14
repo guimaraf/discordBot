@@ -1,0 +1,10 @@
+***Comandos cadastrados***
+O Bot foi criado em Python, podendo monitorar o chat dectectanado insultos entre membros no meio das conversas, entre algumas outras funções abaixo
+
+bitcoin ou btc = Retorna um valor do Bitcoin em Dólar americano
+meme = Envia um link de um meme randômico
+piada = Envia um link de uma piada de programador
+enquete jam = mostra as possibiidades de temas para a Jam, sendo possível votar usando emojis
+
+Operações matemáticas, você envia apenas a conta que quer resolver, por exemplo 5*5 ou 5 * 5
+///////loop = Faz um loop retornando 20 mensagens\\\\\\\\\ 
